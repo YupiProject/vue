@@ -68,7 +68,6 @@ export default {
     font-size: 40px;  
   }
   
-
   body {
   height: 100vh;
   background: linear-gradient(90deg,#e52e71,#ff8a00);
